@@ -1,7 +1,6 @@
 {
     "total": 8378,
     "totalHits": 500,
-    "hits": [
         {
             "id": 2785074,
             "pageURL": "https://pixabay.com/photos/puppy-pet-canine-dog-animal-lying-2785074/",
@@ -554,5 +553,4 @@
             "user": "PicsbyFran",
             "userImageURL": "https://cdn.pixabay.com/user/2023/10/02/08-59-47-205_250x250.jpg"
         }
-    ]
 }
